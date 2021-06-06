@@ -6,3 +6,6 @@ and so on
 It is a represention of the Simon Game (memory game)
 Link: https://soumyax0903.github.io/Simongame.github.io/
 
+![image](https://user-images.githubusercontent.com/79750961/120927801-c6d8f700-c6ff-11eb-9c15-a0384384dc9d.png)
+
+![image](https://user-images.githubusercontent.com/79750961/120927846-ec660080-c6ff-11eb-839d-4b6737021ee9.png)
